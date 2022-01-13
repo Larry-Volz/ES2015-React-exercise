@@ -16,4 +16,4 @@ function remove(items, item){
     return "undefined";
 }
 
-export {remove, choice};
+export {choice, remove};
